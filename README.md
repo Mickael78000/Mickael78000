@@ -33,30 +33,42 @@ const skills = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏦 Umbratrade</h3>
-      <p>High-performance decentralized trading platform on Solana</p>
-      <p><strong>Tech:</strong> Rust, Anchor, Next.js</p>
-      <a href="https://github.com/Mickael78000/umbratrade">View Project →</a>
+      <h3>🧩 Research Token (Solana)</h3>
+      <p>Scientific Research Tokenization DApp with RIS scoring and simulated funding.</p>
+      <p><strong>Tech:</strong> Next.js, TypeScript, Tailwind, Solana (mock), Anchor (skeleton)</p>
+      <a href="https://github.com/Mickael78000/research-token">View Project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔄 DEX Router</h3>
-      <p>Smart order routing across multiple Solana DEXs</p>
-      <p><strong>Tech:</strong> Rust, Anchor, AMM Integration</p>
-      <a href="https://github.com/Mickael78000/DEX-Router-Solana-V1">View Project →</a>
+      <h3>🦆 Meme Hunt (Solana)</h3>
+      <p>Web3-ready meme discovery/interaction app.</p>
+      <p><strong>Tech:</strong> Next.js, TypeScript</p>
+      <a href="https://github.com/Mickael78000/meme-hunt">View Project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 ZK-ElGamal Proof</h3>
-      <p>Zero-Knowledge proof system for ElGamal encryption</p>
-      <p><strong>Tech:</strong> Rust, Cryptography, ZK Proofs</p>
-      <a href="https://github.com/Mickael78000/zk-elgamal-proof">View Project →</a>
+      <h3>🗳️ ETH Voting DApp (Ethereum)</h3>
+      <p>Decentralized voting application built on Ethereum.</p>
+      <p><strong>Tech:</strong> Solidity, Web3, React</p>
+      <a href="https://github.com/Mickael78000/eth-voting-dapp">View Project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💰 Research Token</h3>
-      <p>Full-stack token ecosystem with frontend</p>
-      <p><strong>Tech:</strong> Solana, React, TypeScript</p>
-      <a href="https://github.com/Mickael78000/research-token">View Project →</a>
+      <h3>🗳️ programMickael78000 (Solana)</h3>
+      <p>Solana program workspace & experiments for on-chain components.</p>
+      <p><strong>Tech:</strong> Rust, Anchor</p>
+      <a href="https://github.com/Mickael78000/programMickael78000">View Project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 SOR ZK Proofs (Solana)</h3>
+      <p>Zero-knowledge proof experiments around smart order routing.</p>
+      <p><strong>Tech:</strong> Rust/TypeScript, ZK</p>
+      <a href="https://github.com/Mickael78000/sor-zk-proof">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌳 Green Vault (Ethereum)</h3>
+      <p>Coming soon</p>
     </td>
   </tr>
 </table>
