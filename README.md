@@ -53,10 +53,10 @@ const skills = {
       <a href="https://github.com/Mickael78000/eth-voting-dapp">View Project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🗳️ programMickael78000 (Solana)</h3>
-      <p>Solana program workspace & experiments for on-chain components.</p>
+      <h3>🗳️ SOL D21 Voting DApp (Solana)</h3>
+      <p>D21 voting system with both positive and negative votes.</p>
       <p><strong>Tech:</strong> Rust, Anchor</p>
-      <a href="https://github.com/Mickael78000/programMickael78000">View Project →</a>
+      <a href="https://github.com/Mickael78000/sol-voting-dapp">View Project →</a>
     </td>
   </tr>
   <tr>
