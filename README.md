@@ -135,7 +135,7 @@ Solidity     ███░░░░░░░░░░░░░░░░░░   1
 Other        ██░░░░░░░░░░░░░░░░░░░    5%
 ```
 
-### 🎯 2024 Goals
+### 🎯 2026 Goals
 
 - [ ] Contribute to major Solana ecosystem projects
 - [ ] Publish ZK cryptography research
