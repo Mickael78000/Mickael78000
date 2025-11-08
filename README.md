@@ -68,7 +68,9 @@ const skills = {
     </td>
     <td width="50%" valign="top">
       <h3>🌳 Green Vault (Ethereum)</h3>
-      <p>Coming soon</p>
+      <p>A secure and feature-rich vault implementation for ERC20 tokens on EVM-compatible blockchains, built with Foundry.</p>
+      <p><strong>Tech:</strong> Solidity, ERC-20, ERC-4626</p>
+      <a href="https://github.com/Mickael78000/green-vault">View Project →</a>
     </td>
   </tr>
 </table>
